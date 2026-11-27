@@ -1,0 +1,10 @@
+legacy_scratch/
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.obj
+*.cnf
+/sha256_18rounds_solution.txt
+sha256_engine/RESEARCH_STATUS.md
+temp_key.gpg
